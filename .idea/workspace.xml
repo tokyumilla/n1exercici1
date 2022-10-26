@@ -1,17 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="022fb5bf-eeff-49c0-b5e1-f1e0c372853c" name="Changes" comment="Inicio del proyecto">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/n1exercici1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n1exercici1/Instrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n1exercici1/PercussionInstrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n1exercici1/StringInstrument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n1exercici1/WindInstrument.java" afterDir="false" />
+    <list default="true" id="022fb5bf-eeff-49c0-b5e1-f1e0c372853c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/n1exercici2/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/n1exercici2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/n1exercici1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tasca1Nivell1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/n1exercici1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -38,13 +33,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="n1exercici2" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -61,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666786514309</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Final del proyecto con dudas. ¿Es esto lo que me piden?">
+      <created>1666791570378</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1666791570378</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -77,6 +84,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicio del proyecto" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inicio del proyecto" />
+    <MESSAGE value="Final del proyecto con dudas. ¿Es esto lo que me piden?" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final del proyecto con dudas. ¿Es esto lo que me piden?" />
   </component>
 </project>
