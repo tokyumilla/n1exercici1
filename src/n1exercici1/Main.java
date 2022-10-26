@@ -2,6 +2,8 @@ package n1exercici1;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        PercussionInstrument pandereta = new PercussionInstrument();
+        System.out.println(pandereta);
+
     }
 }
