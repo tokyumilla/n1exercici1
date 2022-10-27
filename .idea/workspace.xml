@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="022fb5bf-eeff-49c0-b5e1-f1e0c372853c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/n1exercici2/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/n1exercici2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/n1exercici1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/tasca1Nivell1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/n1exercici1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici1/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="022fb5bf-eeff-49c0-b5e1-f1e0c372853c" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +61,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666791570378</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ejercicio 2 Hecho">
+      <created>1666818742199</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1666818742199</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -85,6 +85,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicio del proyecto" />
     <MESSAGE value="Final del proyecto con dudas. ¿Es esto lo que me piden?" />
-    <option name="LAST_COMMIT_MESSAGE" value="Final del proyecto con dudas. ¿Es esto lo que me piden?" />
+    <MESSAGE value="Ejercicio 2 Hecho" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio 2 Hecho" />
   </component>
 </project>
