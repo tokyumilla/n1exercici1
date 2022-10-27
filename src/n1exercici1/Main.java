@@ -5,6 +5,8 @@ public class Main {
         PercussionInstrument pandereta = new PercussionInstrument();
         System.out.println(pandereta);
 
+        WindInstrument flauta = new WindInstrument();
+
         pandereta.tocar();
 
     }

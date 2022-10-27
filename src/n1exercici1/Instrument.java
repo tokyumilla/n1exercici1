@@ -1,16 +1,19 @@
 package n1exercici1;
 
 public abstract class Instrument {
-    private String name;
-    private int price;
+    private static String name;
+    private static int price;
 
     public abstract void tocar ();
 
-    {
-        this.name = "instrumento por defecto";
-        this.price = 0;
-
+    static {
+        name = "instrumento por defecto";
+        price = 0;
+        System.out.println("Se han asignado valores por defecto");
     }
+    //Al realizar un bloque estático sólo se ejecutará una vez, si no fuera estático este código se
+    //ejecutaría cada vez que se instancie un objeto.
+
 
     public Instrument () {}
 
