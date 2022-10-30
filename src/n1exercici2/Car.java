@@ -1,12 +1,14 @@
 package n1exercici2;
 
 public class Car {
-    private static final String trademark = "Ford";
+    private static final String trademark = "ford";
     private static String model;
-    private final int potency = 140;
+    private final int potency;
 
-    /* Tanto "trademark" como "potency" tienen que ser inicializadas al declararse porque al ser final pasan a ser
-    constantes que no pueden ser modificadas en el resto del código.
+    /* "Trademark" tiene que ser inicializada al declararse porque al ser static final pasa a ser
+    constantes que no pueden ser modificadas en el resto del código. No puede ser inicializada en el constructor porque
+    al ser static tiene que tener un valor independientemente de que se instancien objetos de la clase o no.
+    Potency tiene que ser inicializada al declararse o en el constructor por ser una constante.
     Model sí que puede inicializarse en el constructor, pero al ser static, si se modifica para un objeto también será
     modificada para el resto de objetos de la clase Car
 
@@ -22,6 +24,7 @@ public class Car {
 
     public Car (String model) {
         this.model=model;
+        potency = 140;
     }
 
     public static String getModel() {
