@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="022fb5bf-eeff-49c0-b5e1-f1e0c372853c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/n1exercici1/Instrument.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici1/Instrument.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/n1exercici1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/n1exercici1/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666881295120</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Corrección, bloque sout sin inicializar variables">
+      <created>1666881626817</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1666881626817</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -106,6 +112,7 @@
     <MESSAGE value="Ejercicio 2 Hecho" />
     <MESSAGE value="Cambio títulos" />
     <MESSAGE value="Corrección, con respuesta de Joan en el foro." />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrección, con respuesta de Joan en el foro." />
+    <MESSAGE value="Corrección, bloque sout sin inicializar variables" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrección, bloque sout sin inicializar variables" />
   </component>
 </project>

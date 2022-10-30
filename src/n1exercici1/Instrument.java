@@ -9,7 +9,11 @@ public abstract class Instrument {
     {
         name = "instrumento por defecto";
         price = 0;
-        System.out.println("Se han asignado valores por defecto. Este mensaje se reproducirá cada vez que se instancie un objeto");
+        System.out.println("Se han asignado valores por defecto.");
+    }
+
+    {
+        System.out.println("Este mensaje se reproducirá en cada instancia del objeto");
     }
 
     static {
